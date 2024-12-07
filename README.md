@@ -6,13 +6,13 @@ This repository contains the Coffee Shop Sales Dashboard project files. The dash
 The original dataset for this project was sourced from Kaggle's public datasets. It includes various details about coffee shop sales, including transactions, product categories, and sales performance across different locations.
 
 ## Data Preparation
-The data was imported into Excel, where it was cleansed and structured using Power Query. During the data preparation phase, we performed the following tasks:
+The data was imported into Excel, where it was cleansed and structured using Power Query. During the data preparation phase, I performed the following tasks:
 - Removed duplicates and irrelevant records.
 - Normalized the data for consistency.
 - Engineered features to aid in more insightful analysis.
 
 ## Pivot Tables and Pivot Charts
-Post data cleaning, we utilized Pivot Tables to summarize the data effectively. This allowed us to analyze the dataset from multiple dimensions and calculate metrics like total sales, average order value, and product category distribution.
+Post data cleaning, we utilized Pivot Tables to summarize the data effectively. This allowed me to analyze the dataset from multiple dimensions and calculate metrics like total sales, average order value, and product category distribution.
 
 ## Dashboard Creation
 The dashboard was designed to provide a clear and interactive overview of sales performance. Key components include:
@@ -38,4 +38,4 @@ To view the dashboard, simply open the `COFFEE SHOP SALES DASHBOARD.xlsx` file i
 - Basic knowledge of navigating Excel Pivot Tables and slicers.
 
 ## Acknowledgements
-We would like to thank the Kaggle community for providing the dataset which made this analysis possible.
+I would like to thank the Kaggle community for providing the dataset which made this analysis possible.
